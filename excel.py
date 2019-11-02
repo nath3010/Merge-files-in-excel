@@ -7,8 +7,8 @@ import glob
 
 
 
-input_directory = "C://Users//nlsouza//Desktop//KPMG//Projetos//Bayer//todos//indiretos  mod//"
-output_directory = "C://Users//nlsouza//Desktop//KPMG//Projetos//Bayer//todos//indiretos  mod final//"
+input_directory = "C://Users//nlsouza//Desktop//todos//indiretos  mod//"
+output_directory = "C://Users//nlsouza//Desktop//todos//indiretos  mod final//"
 
 
 files = os.listdir(input_directory)   
